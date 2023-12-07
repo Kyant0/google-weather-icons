@@ -1,5 +1,9 @@
 # google-weather-icons
 
+**`/icons/weather/`**
+- Icons extracted from the new Weather Experience
+- Available in Light/Dark mode styles
+
 **`/icons/clock/`**
 - Icons extracted from [Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock)
 
